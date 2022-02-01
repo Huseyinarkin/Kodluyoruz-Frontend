@@ -1,0 +1,39 @@
+body{
+    background-color: #655D8A;
+    text-align: center;
+}
+h1,h2,h3,h4{
+    color: #FDCEB9;    
+}
+p{
+    color:#D885A3;
+}
+/* sayfada içerikler arasında 1rem lik bosluk bırakmak için*/
+.boxh{
+    height: 1rem;
+}
+.ul_top_hypers{
+    text-align: center;
+}
+.ul_top_hypers li {    
+    background-color: rgb(190, 225, 255);
+    
+    border-radius: 1rem;
+    padding: 1rem;
+    display: inline-block;   
+    margin-right: 2rem;
+}
+.ul_top_hypers li a{
+    text-decoration: none;
+}
+.imgPrice{
+    color: white;
+}
+.imgPrice li img{
+    width:300px;
+    height: 300px;
+}
+.imgPrice li p{
+    color: rgb(255, 223, 194);;
+    margin-bottom: 3rem;
+}
