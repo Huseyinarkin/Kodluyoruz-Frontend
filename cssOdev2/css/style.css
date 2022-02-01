@@ -1,0 +1,32 @@
+.container{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    min-width: 550px;
+}
+.bg_ee{
+    background-color: #eee;
+}
+.bg_blue7e{
+    background-color: #7EE5DA;
+}
+.bg_blue70{
+    background-color: #70CCC2;
+}
+.bg_blue62{
+    background-color: #62B3AA;
+}
+.divfloat{    
+    display: table;
+    float: left;    
+    width: 33%;
+    height: 100%;
+    margin: 0.5% 0;
+}
+.centerV{
+    display:table-cell;
+    vertical-align:middle;
+}
+.footer{
+    padding: 20px;
+}
