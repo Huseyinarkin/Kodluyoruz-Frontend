@@ -22,9 +22,15 @@ Bu projede Google'ın şuanki arayüzünün verilen Html ve Css kodlarından yar
 Bootstrap v4.6 sürümünü kullandım. Bootstrapin içerisinde bulunan Navbar, jumbotron, card, buttons bileşenleri ve özellikleri kullanarak bu site tasarımını oluşturmaya çalıştım.
 
 ![bo1allpage](https://user-images.githubusercontent.com/62842902/152393000-c56f4a31-72c7-4645-9716-c24fa2bb6d2b.gif)
-
+****
 ## Bootstrap Ödev 2
 
 Instagram clone tasarımı. Projemde linkler, sticky ve fixed elemanlar ( navbar, right panel ) çalışıyor.
 
 ![bootstrapOdev2](https://user-images.githubusercontent.com/62842902/152701397-3e4cc8b0-1a56-477d-aec8-9c216ad6efc2.PNG)
+****
+## Bootstrap Ödev 3
+
+Linkedin clone tasarımı. Projemde linkler, sticky ve fixed elemanlar ( navbar, right panel, footer vs ) çalışıyor.
+
+![bootstrapOdev3](https://user-images.githubusercontent.com/62842902/152703552-dae9f707-0458-4742-a37e-3f9e952888b7.PNG)
