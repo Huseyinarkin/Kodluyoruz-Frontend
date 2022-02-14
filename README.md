@@ -39,4 +39,4 @@ Linkedin clone tasarımı. Projemde linkler, sticky ve fixed elemanlar ( navbar,
 
 Kullanıcıdan aldığım isim bilgisini ve canlı saat, gün bilgisini ekranda gösterdiğim js ödev projesi.
 
-![bootstrapOdev3](https://user-images.githubusercontent.com/62842902/152703552-dae9f707-0458-4742-a37e-3f9e952888b7.PNG)
+![jsOdev1](https://user-images.githubusercontent.com/62842902/153782455-bc2e26a0-8dbb-4515-89f6-54de7793bf5b.PNG)
