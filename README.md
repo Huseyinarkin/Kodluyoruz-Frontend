@@ -34,3 +34,9 @@ Instagram clone tasarımı. Projemde linkler, sticky ve fixed elemanlar ( navbar
 Linkedin clone tasarımı. Projemde linkler, sticky ve fixed elemanlar ( navbar, right panel, footer vs ) çalışıyor.
 
 ![bootstrapOdev3](https://user-images.githubusercontent.com/62842902/152703552-dae9f707-0458-4742-a37e-3f9e952888b7.PNG)
+****
+## Javascript Ödev 1
+
+Kullanıcıdan aldığım isim bilgisini ve canlı saat, gün bilgisini ekranda gösterdiğim js ödev projesi.
+
+![bootstrapOdev3](https://user-images.githubusercontent.com/62842902/152703552-dae9f707-0458-4742-a37e-3f9e952888b7.PNG)
