@@ -1,6 +1,6 @@
 ## React Ödev 1
 
-React projesi oluşturdum. NPM ile axios modülünü projeye ekledim. axios ile async/await bir fonksiyon oluşturdum. Oluşturduğum fonksiyon, axios modülünü kullanarak verdiğim userId değeri ile eşleşen id'ye sahip kullanıcının bilgilerini ve attığı postları çekmemi sağlıyor.
+NPM ile axios modülünü projeye ekledim. axios ile async/await bir fonksiyon oluşturdum. Oluşturduğum fonksiyon, axios modülünü kullanarak verdiğim userId değeri ile eşleşen id'ye sahip kullanıcının bilgilerini ve attığı postları çekmemi sağlıyor.
 
 ```Javascript
 {
