@@ -28,6 +28,11 @@ Html yapısını oluşturuken **semantic** etiketleri kullandım.
 
 ![images](https://user-images.githubusercontent.com/62842902/190390097-b71c1d3d-bf88-4842-868a-9f7047deb084.gif)
 ****
+## Html Ödev3
+Html kullanarak elmalı turta tarifi için web site oluşturdum.
+
+![image](https://user-images.githubusercontent.com/62842902/190405569-15ee3298-dd73-4716-b4bc-375c59591b42.png)
+****
 ## Css Ödev1
 Html ve Css kullanarak oluşturduğum müzik dökümanım tasarımı.
 
