@@ -22,6 +22,12 @@ inline ve block elemntleri farkalrını öğrendim ve projede kullandım.
 
 ![image](https://user-images.githubusercontent.com/62842902/190234963-7339bb1d-f319-499b-9fac-ea85d94b421a.png)
 ****
+## Html Calisma1
+Html ile şuana kadar öğrendiğim etiketlerin tekrar çalışmasını yaptım.
+Html yapısını oluşturuken **semantic** etiketleri kullandım.
+
+![images](https://user-images.githubusercontent.com/62842902/190390097-b71c1d3d-bf88-4842-868a-9f7047deb084.gif)
+****
 ## Css Ödev1
 Html ve Css kullanarak oluşturduğum müzik dökümanım tasarımı.
 
