@@ -140,3 +140,12 @@ Bu uygulamayıda React'ın component, prop, state yapılarını ve özelliklerin
 Uygulamada kişi adı ve numarasını ekleyebiliriz. Eklediğimiz kişiler liste şeklinde gösterilir ve filtreleyerek ad veya numaraya göre arama yapabiliriz.
 
 ![ReactContacts](https://user-images.githubusercontent.com/62842902/164230322-3feff55b-d56e-4a35-8e55-994411f09938.gif)
+
+****
+## React Ödev 2
+
+Bu uygulamayıda React'ın component, prop, useState yapılarını ve özelliklerini kullandım.
+
+React ile oluşturulmuş ToDo App
+
+![reactOdev2](https://user-images.githubusercontent.com/62842902/193569290-8b722171-7134-43c4-b472-b2340c2b6946.gif)
