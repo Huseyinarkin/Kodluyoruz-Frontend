@@ -175,3 +175,10 @@ socket.io emit, on fonksiyonları ile real time çalışan bir react uygulaması
 React ile Real Time Colors App
 
 ![realtimecolors](https://user-images.githubusercontent.com/62842902/197409584-bf89a079-3e8d-4b82-9e59-dc777c4910e4.gif)
+
+****
+## React Ödev 4
+
+testing-library ile React Component lerine test oluşturma.
+
+![react-test](https://user-images.githubusercontent.com/62842902/197815830-e822a6c7-a762-4244-aa90-e630c0e12f42.PNG)
